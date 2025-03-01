@@ -25,7 +25,9 @@ button {
     height: 5em;
     width: 10em;
     margin-bottom: 10px;
-
+}
+.buttons {
+    display: flex;
 }
 button:hover {
     background: rgb(135, 171, 250);
