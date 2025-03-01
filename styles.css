@@ -42,6 +42,7 @@ input {
 .timer{
     margin-top: 4.5em;
     margin-bottom: 100px;
+    display: flex;
 }
 .text {
     margin-top: 15em;
