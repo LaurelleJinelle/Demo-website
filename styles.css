@@ -24,7 +24,7 @@ button {
     border-color: transparent;
     height: 5em;
     width: 10em;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
 }
 button:hover {
@@ -43,7 +43,6 @@ input {
 .timer{
     margin-top: 4.5em;
     margin-bottom: 100px;
-    display: flex;
 }
 .text {
     margin-top: 15em;
