@@ -24,6 +24,7 @@ button {
     border-color: transparent;
     height: 5em;
     width: 10em;
+    margin-bottom: 20px;
 
 }
 button:hover {
